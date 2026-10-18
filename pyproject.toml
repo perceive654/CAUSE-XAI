@@ -37,6 +37,7 @@ dependencies = [
     "networkx>=2.7",
     "matplotlib>=3.5",
     "graphviz>=0.20",
+    "pandas>=1.5",
 ]
 
 [project.optional-dependencies]
